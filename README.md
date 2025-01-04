@@ -3,6 +3,8 @@
 ## Overview
 This project implements a Visual Question Answering (VQA) system that can answer natural language questions about images. The system combines computer vision and natural language processing techniques to understand both visual content and textual queries.
 
+![VQA workflow](figures/VQA%20workflow.png) 
+
 ## Features
 - Multiple model implementations:
   1. CNN + LSTM baseline model

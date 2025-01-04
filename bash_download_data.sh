@@ -5,7 +5,7 @@ pip install gdown
 mkdir -p data
 
 # Download the file using gdown
-gdown "https://drive.google.com/uc?id=1zRHT9eSFUNK6o3AHwQmyAeFzXfEzkEts" -O data/dataset.zip
+gdown 1kc6XNqHZJg27KeBuoAoYj70_1rT92191 -O data/dataset.zip
 
 # Unzip the file into the data directory
 unzip data/dataset.zip -d data/
