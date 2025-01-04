@@ -11,3 +11,5 @@ transformers==4.27.1
 torchtext
 torchvision==0.16.0
 torchaudio==2.1.0
+accelerate==1.2.1
+bitsandbytes==0.45.0
